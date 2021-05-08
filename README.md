@@ -1,4 +1,7 @@
 ### Hey 👋, I'm KARTIK!
+
+<img src="https://komarev.com/ghpvc/?username=kg-0805&color=blueviolet" align="left">
+
 ## 👨👩 Social 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kg-0805/)
 [![website](https://img.shields.io/twitter/url/https/twitter.com/kg_0805.svg?style=social&label=Follow%20%40kg_0805)](https://twitter.com/kg_0805)
