@@ -25,8 +25,7 @@
 
 
 <p align="center"> 
-  <b><u>Visitor count</u><br>
-  <img src="https://profile-count.glitch.me/kg-0805/count" />
+  ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 </p>
 
 <!--
