@@ -25,7 +25,7 @@
 
 
 <p align="center"> 
-  ![Visitor Count](https://profile-counter.glitch.me/kg-0805/count.svg)
+  ![Visitor Count] (https://profile-counter.glitch.me/kg-0805/count.svg)
 </p>
 
 <!--
