@@ -25,7 +25,7 @@
 
 
 <p align="center"> 
-  ![Visitor Count] (https://profile-counter.glitch.me/kg-0805/count.svg)
+  [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 </p>
 
 <!--
