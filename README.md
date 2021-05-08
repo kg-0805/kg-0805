@@ -22,4 +22,4 @@
 
 
 
-<img src"ttps://badges.pufler.dev/visits/kg-0805" />
+<img src"https://badges.pufler.dev/visits/kg-0805" />
