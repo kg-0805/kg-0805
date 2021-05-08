@@ -19,5 +19,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=kg-0805&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kg-0805&layout=compact&theme=buefy" alt="languages" height="165">
 </p>
 
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=fadyehabamer&show_icons=true&theme="onedark"&title_color=black&icon_color=black&text_color=white&bg_color=black)
+### Github trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=kg-0805&theme=dark)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kg-0805)  
+<br />
 
