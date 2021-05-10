@@ -22,6 +22,6 @@
 
 ### Github trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=kg-0805&theme=dark)
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kg-0805)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kg-0805&theme=calm)](https://git.io/streak-stats)
 <br />
 
