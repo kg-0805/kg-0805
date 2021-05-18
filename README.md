@@ -4,7 +4,7 @@
 <br>
 <br>
 
-<img src="https://img.shields.io/website-up-down-green-red/https/kartikgupta.tech.svg" website:https://kartikgupta.tech/>
+[<img src="https://img.shields.io/website-up-down-green-red/https/kartikgupta.tech.svg"/>](https://kartikgupta.tech)
 
 <br>
 <br>
