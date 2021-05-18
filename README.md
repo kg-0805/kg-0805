@@ -22,7 +22,9 @@
 
 ##📈 Statistics
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=kg-0805&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kg-0805&layout=compact&theme=buefy" alt="languages" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=kg-0805&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kg-0805&theme=blue-green" alt="languages" height="165">
 </p>
 
 ### Github trophies
