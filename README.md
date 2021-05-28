@@ -7,6 +7,7 @@
 <a href="https://dev.to/kg0805">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Kartik Gupta's DEV Community Profile" height="30" width="30">
 </a>
+<img src="https://img.shields.io/website-up-down-green-red/https/kartikgupta.tech.svg"/>(https://kartikgupta.tech)
 
 ##🚀 Skills
 <p>
