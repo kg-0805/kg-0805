@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=kg-0805&color=blueviolet" align="left">
 
-<img src="https://img.shields.io/website-up-down-green-red/https/kartikgupta.tech.svg"/>(https://kartikgupta.tech)
+<img src="https://img.shields.io/website-up-down-green-red/https/kartikgupta.tech.svg"/>
 <br>
 <br>
 
