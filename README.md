@@ -1,4 +1,4 @@
-### Hey 👋, I'm KARTIK!
+### Hey 👋, I'm KARTIK GUPTA!
 
 <img src="https://komarev.com/ghpvc/?username=kg-0805&color=blueviolet" align="left">
 
